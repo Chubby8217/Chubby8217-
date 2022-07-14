@@ -15,7 +15,7 @@ div {background-color:#D4D6D9; margin:6px; padding:4px;}
 </head>
 <body>
 <div>
-<header><h1>Name of College or University</h1></header>
+<header><h1>MALLESHWARAM LADIES ACCOCIATION (regd) or BANGLORE</h1></header>
 <h2>At a Glance</h2>
 <img src="xxxxxx.jpg" alt="description" style="float:right;"> (insert a picture of a landmark at this college 
 or university no bigger than 300x300. Right click on the image in Chrome: Inspect Element; right click on 
