@@ -50,8 +50,3 @@ specific athletic club or another part of campus life)
 </div>
 </body>
 </html>
-Fight song – as an mp3 file:
--go to www.fightsongringtone.com/free fightsong.html
--Search for your school, click on “preview/download”
--Right click on the actual file that plays and select “download video as” (this should open up a window to save the 
-file as the mp3 - - - save it in the folder your previously created “college webpage (lastname)”)
