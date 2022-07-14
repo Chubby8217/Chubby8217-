@@ -15,11 +15,10 @@ div {background-color:#D4D6D9; margin:6px; padding:4px;}
 </head>
 <body>
 <div>
-<header><h1>MALLESHWARAM LADIES ACCOCIATION (regd) or BANGLORE</h1></header>
+<header><h1>MALLESHWARAM LADIES ACCOCIATION (regd) </h1></header>
 <h2>At a Glance</h2>
 <img src="xxxxxx.jpg" alt="description" style="float:right;"> (insert a picture of a landmark at this college 
 or university no bigger than 300x300. Right click on the image in Chrome: Inspect Element; right click on 
-highlighted code; copy; paste into your code in Notepad)
 <p>Include an introductory paragraph about with 4-6 sentences about the college or university. </p>
 <h2>Location of collage 15th Cross Rd, Malleswaram, Bengaluru, Karnataka 560003</h2>
 <img src=" xxxxxx.jpg " alt=" description " style="float:left"> (insert a picture of a landmark at the 
