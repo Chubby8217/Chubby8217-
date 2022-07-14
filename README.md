@@ -21,7 +21,7 @@ div {background-color:#D4D6D9; margin:6px; padding:4px;}
 or university no bigger than 300x300. Right click on the image in Chrome: Inspect Element; right click on 
 highlighted code; copy; paste into your code in Notepad)
 <p>Include an introductory paragraph about with 4-6 sentences about the college or university. </p>
-<h2>Location of school</h2>
+<h2>Location of collage</h2>
 <img src=" xxxxxx.jpg " alt=" description " style="float:left"> (insert a picture of a landmark at the 
 college/university that you would see on a brochure or TV commercial used to advertise it; no bigger than 300x300. Right click on the image in Chrome: Inspect Element; right click on highlighted code; copy; paste 
 into your code in Notepad)
