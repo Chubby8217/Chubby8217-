@@ -30,7 +30,7 @@ special about this location? </p>
 <img src=" xxxxxx.jpg " alt=" description " style="float:right"> (insert a color picture of the school mascot;
 no bigger than 300x300. Right click on the image in Chrome: Inspect Element; right click on highlighted 
 code; copy; paste into your code in Notepad)
-<p> Include a paragraph with 4-6 sentences about the school mascot. Also talk about the school colors.
+
 </p>
 <h2>Links</h2>
 <ul>
